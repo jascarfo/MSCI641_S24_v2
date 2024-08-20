@@ -14,7 +14,7 @@ msci_bert_model: This was the eventual preferred model, using cleaned text and B
 
 msci_finbert_model: Although FINBERT is specific for financial text, sustainability reporting has a lot of non-financial aspects, which could be why it underperformed traditional BERT. 
 
-Model Result Sampling: 
+Model Result Sampling (only part of Model 2 shown here due to wifi constraints)
 
 folder_v1 for model 1
 folder_v2 for model 2
